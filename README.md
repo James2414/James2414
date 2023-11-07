@@ -1,5 +1,5 @@
 
-Hola bienvenidos a mi perfil de GitHub!<br><br>Desde muy joven eh sido apasionado por la programación, desde entonces no he dejado de explorar<br>este fascinante mundo.<br><br>Deseo aprender y afrontar nuevos desafíos, y sobresalir en cada proyecto que participo<br>soy consiente que la tecnología es algo que me apasiona, mi mentalidad abierta y curiosa me permite<br>adaptarme rápidamente a nuevas tecnologías y abordar problemas complejos con creatividad. 
+Hola bienvenidos a mi perfil de GitHub! 
 
 
 ## 🌐 Socials:
